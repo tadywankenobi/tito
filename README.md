@@ -1,4 +1,4 @@
-# Tito
+# Tito WordPress Plugin
 
 Probably the best event management software on the web, Tito brings ticket sales directly to your website.
 
@@ -67,9 +67,11 @@ Lovely, thanks! Guinness please!
 
 ## Changelog
 **_0.5_**
+
 Add banner image for plugin and icon imagery for dashboard
 
 **_0.3_**
+
 Updates to readme and add shortcode argument handling
 
 **_0.1_**
