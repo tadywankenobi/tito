@@ -31,7 +31,7 @@ Using the information provided to your account, quickly setup Tito to run and se
 4. Add the other default settings.
 5. Place `do_shortcode('[tito]');` in your template code or add the shortcode '[tito]' to your content where you want the ticket sales box or button to appear
 6. If you wish to customise the display in the template using the shortcode, all settings can be passed to the plugin using the shortcode.
-For example: [tito event="ultimateconf/2013" button="true" label="Get yer tickets" releases="3elajg6qcxu"]. This also applies to the 'do_shortcode' function.
+For example: `[tito event="ultimateconf/2013" button="true" label="Get yer tickets" releases="3elajg6qcxu"]` This also applies to the 'do_shortcode' function.
 
 ## Frequently Asked Questions
 
